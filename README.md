@@ -380,7 +380,7 @@ This repository documents everything I built during the **100 Days of SwiftUI** 
 
 <br/>
 
-## 📷 App Screenshots
+<!-- ## 📷 App Screenshots
 
 <p align="center">
   <img src="screenshots/wesplit.png" width="200" style="border-radius:16px; margin:8px"/>
@@ -392,11 +392,11 @@ This repository documents everything I built during the **100 Days of SwiftUI** 
   <img src="screenshots/bucketlist.png" width="200" style="border-radius:16px; margin:8px"/>
 </p>
 
-<br/>
+<br/> 
 
 ---
 
-<br/>
+<br/>-->
 
 ## 📊 GitHub Stats
 
