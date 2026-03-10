@@ -1,7 +1,7 @@
 # 🚀 100 Days of SwiftUI – My iOS Development Journey
 
 Hi 👋
-I'm **Shiv**, an aspiring **iOS Developer from India 🇮🇳**.
+I'm **Shivansh Omer**, an aspiring **iOS Developer from India 🇮🇳**.
 
 This repository contains all the projects I built while completing the **100 Days of SwiftUI** course by **Paul Hudson**.
 
@@ -114,5 +114,53 @@ Over **100 days**, I completed:
 * Combine
 
 ---
+# 📷 Screenshots
 
+Example project screenshots:
+
+```
+/screenshots
+   wesplit.png
+   moonshot.png
+   instafilter.png
+   bucketlist.png
+```
+
+You can add screenshots here to showcase your apps.
+
+---
+
+# 🎯 My Goal
+
+My goal is to become a **professional iOS developer** and build impactful apps using:
+
+* Swift
+* SwiftUI
+* Apple frameworks
+* Modern mobile architecture
+
+---
+
+# 🙏 Acknowledgements
+
+Special thanks to:
+
+* **Paul Hudson** for creating the *100 Days of SwiftUI* course
+* **Dr. Probeer Shaw** for his guidance and encouragement
+
+---
+
+# 🔗 Connect With Me
+
+💼 **LinkedIn**
+https://www.linkedin.com/in/shivansh-omer-b738a9278/
+
+💻 **GitHub**
+(Add your GitHub profile link)
+
+---
+
+# ⭐ If You Like This Repository
+
+If you find this repository helpful, please **star ⭐ the repo** and follow my journey!
 
