@@ -400,7 +400,7 @@ This repository documents everything I built during the **100 Days of SwiftUI** 
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0066FF&icon_color=0066FF&text_color=FFFFFF"/>
   &nbsp;
   <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=0066FF&fire=FF9F0A&currStreakLabel=0066FF"/>
@@ -408,7 +408,18 @@ This repository documents everything I built during the **100 Days of SwiftUI** 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0066FF&text_color=FFFFFF&langs_count=6"/>
+</p> -->
+
+<p align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=shivansh-omer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0066FF&icon_color=0066FF&text_color=FFFFFF"/>
+  &nbsp;
+  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh-omer&theme=tokyonight&hide_border=true&background=0D1117&ring=0066FF&fire=FF9F0A&currStreakLabel=0066FF"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh-omer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0066FF&text_color=FFFFFF&langs_count=6"/>
+</p>
+
 
 <br/>
 
