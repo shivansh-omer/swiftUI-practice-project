@@ -420,7 +420,6 @@ This repository documents everything I built during the **100 Days of SwiftUI** 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh-omer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0066FF&text_color=FFFFFF&langs_count=6"/>
 </p>
 
-
 <br/>
 
 ---
